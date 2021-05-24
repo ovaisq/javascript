@@ -1,1 +1,1 @@
-# javascript
+# My JS learnings
