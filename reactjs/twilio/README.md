@@ -6,10 +6,9 @@ This is an example of sending SMS using React and Twilio. This borrows heavily f
 
 To run the project you will need a Twilio account and a Twilio phone number that can send SMS messages. Gather your Twilio Account Sid and Auth Token from the [Twilio console](https://www.twilio.com/console) and the phone number.
 
-Change into the directory and install the dependencies.
+Install the dependencies.
 
 ```bash
-cd twilio
 npm i
 ```
 
